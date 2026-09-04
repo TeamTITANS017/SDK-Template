@@ -13,6 +13,7 @@ teamcode/
 ├── hardware/         # Tot ce ține de componenta hardware 
 ├── lib/              # Librărie internă partajată
 └── opmodes/          # TeleOp-uri si Auto-uri
+```
 
 ### config/
 
@@ -20,6 +21,7 @@ teamcode/
 config/
 ├── HardwareConfig.java   # Denumirile din configurația hardware din FTC Driver Station
 └── RobotConstants.java   # Constante utilizate de robot sub formă de enum-uri
+```
 
 ### hardware/
 
@@ -29,6 +31,7 @@ hardware/
 ├── subsystems/       # Clase ce gestionează câte un mecanism al robotului (ex. Drivetrain, Arm, Lifter etc.)
 ├── LynxManager.java       # Bulk reads în modul MANUAL (nu schimbați)
 └── Robot.java             # Containerul principal (conectează toate subsistemele)
+```
 
 ### lib/
 
@@ -41,6 +44,7 @@ lib/
 ├── pid/
 ├── tests/
 └── vision/  
+```
 
 Librăria internă a echipei, cod păstrat din sezoanele trecute.
 
@@ -50,3 +54,4 @@ Librăria internă a echipei, cod păstrat din sezoanele trecute.
 opmodes/
 ├── auto/              # Rutine autonome 
 └── teleop/            # Rutine TeleOp
+```
