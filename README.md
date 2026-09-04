@@ -29,8 +29,8 @@ config/
 hardware/
 ├── pedroPathing/     # Fișierele librăriei Pedro Pathingg
 ├── subsystems/       # Clase ce gestionează câte un mecanism al robotului (ex. Drivetrain, Arm, Lifter etc.)
-├── LynxManager.java       # Bulk reads în modul MANUAL (nu schimbați)
-└── Robot.java             # Containerul principal (conectează toate subsistemele)
+├── LynxManager.java  # Bulk reads în modul MANUAL (nu schimbați)
+└── Robot.java        # Containerul principal (conectează toate subsistemele)
 ```
 
 ### lib/
