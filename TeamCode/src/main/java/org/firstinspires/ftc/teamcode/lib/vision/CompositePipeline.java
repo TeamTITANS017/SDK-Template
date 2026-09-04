@@ -1,4 +1,4 @@
-package org.firstinspires.ftc.teamcode.lib;
+package org.firstinspires.ftc.teamcode.lib.vision;
 
 import androidx.core.util.Consumer;
 

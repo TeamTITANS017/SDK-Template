@@ -1,4 +1,4 @@
-package org.firstinspires.ftc.teamcode.lib;
+package org.firstinspires.ftc.teamcode.lib.pid;
 
 public class VelocityPID {
     public double kP=0, kI=0, kD=0, kF=0;

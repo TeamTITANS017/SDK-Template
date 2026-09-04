@@ -1,9 +1,10 @@
-package org.firstinspires.ftc.teamcode.lib;
+package org.firstinspires.ftc.teamcode.lib.motion;
 
 import android.util.Pair;
 
 import com.qualcomm.robotcore.util.Range;
 
+@SuppressWarnings("unused")
 public class TrapezoidalMotionProfile {
     double maxAccel, maxVel;
     double accelTime = 0;

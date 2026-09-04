@@ -1,8 +1,8 @@
-package org.firstinspires.ftc.teamcode.lib;
+package org.firstinspires.ftc.teamcode.lib.control;
 
 import com.qualcomm.robotcore.hardware.Gamepad;
 
-import org.firstinspires.ftc.teamcode.util.Updateable;
+import org.firstinspires.ftc.teamcode.lib.interfaces.Updateable;
 
 // V2
 

@@ -1,4 +1,4 @@
-package org.firstinspires.ftc.teamcode.lib;
+package org.firstinspires.ftc.teamcode.lib.feedforward;
 
 @SuppressWarnings("unused")
 public class Feedforward2 {

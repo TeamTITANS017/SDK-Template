@@ -1,4 +1,4 @@
-package org.firstinspires.ftc.teamcode.lib;
+package org.firstinspires.ftc.teamcode.lib.control;
 
 import androidx.core.util.Supplier;
 

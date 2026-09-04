@@ -1,4 +1,4 @@
-package org.firstinspires.ftc.teamcode.lib;
+package org.firstinspires.ftc.teamcode.lib.pid;
 
 public class MultiplePIDF {
     public static final int max_length=10;
